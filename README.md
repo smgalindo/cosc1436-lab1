@@ -1,8 +1,14 @@
 # cosc1436-lab1
 Basic math operations calculator in Java
 
+To compile and run :
+  using command prompt in folder containing MyCalculatorJOptionPane.java file and type the command 
+  
+  javac MyCalculatorJOptionPane.java
+  java MyCalculatorJOptionPane
+
 Overview
-Write a program called MyCalculator.java This program will perform the 5 basic arithmetic operations that you know. i.e., addition, subtraction, product,quotient and reminder
+Write a program called MyCalculatorJOptionPane.java This program will perform the 5 basic arithmetic operations that you know. i.e., addition, subtraction, product,quotient and reminder
 
 Define a two variables e.g., x and y
 Provide values to that variables
